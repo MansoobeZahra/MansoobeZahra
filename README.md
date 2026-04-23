@@ -12,7 +12,7 @@
 🤝 I’m looking to collaborate on any kind of ML projects and web apps.
 🪴 Learning MLOps, CI/CD pipelines, and scalable cloud deployment (AWS, Docker)  
 ⚡ Fun fact: I love to code, lol!
-  📬 Reach out: <a href="mailto:mansoobezehra@gmail.com">mansoobezehra@gmail.com</a> | <a href="https://www.linkedin.com/in/mansoobezehra">LinkedIn</a>
+  📬 Reach out: <a href="mailto:mansoobezehra@gmail.com">mansoobezehra@gmail.com</a> | <a href="https://www.linkedin.com/in/mansoob-e-zahra/">LinkedIn</a>
 </p>
 
 ---
@@ -115,7 +115,7 @@
 ## 📫 Let’s Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/mansoobezehra">
+  <a href="https://www.linkedin.com/in/mansoob-e-zahra/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:mansoobezehra@gmail.com">
