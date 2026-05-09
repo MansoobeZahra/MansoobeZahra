@@ -30,6 +30,7 @@ const mansoob = {
   languages: ["Python", "JavaScript", "TypeScript", "Java", "C++", "Bash"],
   currentlyBuilding: "ML pipelines + Full-stack apps + Agentic AI workflows",
   lookingFor: "Collaborations on ML, Web, and AI-powered projects",
+  superpower: "Turning caffeine into code ☕ → 💻",
   funFact: "I love to code, lol! ⚡",
   contact: "mansoobezehra@gmail.com"
 };
@@ -79,11 +80,11 @@ const mansoob = {
 ### 🤖 AI / ML
 | 🔗 Project | 🛠️ Stack | 📝 Description |
 |:-----------|:---------|:---------------|
-| [**GreenVision — AI Crop Disease Detection**](https://github.com/MansoobeZahra/Crop-Disease-Detector-Web-App) | Flask · TensorFlow · VGG19 | Identifies plant diseases from leaf images. Built for Uraan AI Techathon 2025. [Live Demo](https://mansoobezahra.github.io/Crop-Disease-Detector-Web-App/) |
+| [**GreenVision — AI Crop Disease Detection**](https://github.com/MansoobeZahra/Crop-Disease-Detector-Web-App) | Flask · TensorFlow · VGG19 | Identifies plant diseases from leaf images. Built for Uraan AI Techathon 2025. [Live Demo ↗](https://mansoobezahra.github.io/Crop-Disease-Detector-Web-App/) |
 | [**ExoVision-AI — Exoplanet Detection**](https://github.com/MansoobeZahra) | Python · ML · NASA K2 | ML-driven classifier for celestial objects from NASA's K2 Catalog. NASA Space Apps Hackathon 2025. |
 | [**MindScan — Mental Health Detection**](https://github.com/MansoobeZahra/MindScan_-Mental-Health-Detection-System) | Flask · NLP · DistilBERT | AI-powered depression detection using TF-IDF + DistilBERT with PHQ-9 scoring & explainability. |
 | [**Multi-Agent E-Learning System**](https://github.com/MansoobeZahra/Multi-Agent-Adaptive_E-Learning_System) | React · Vite · Python | AI tutoring platform with adaptive difficulty, live coding practice, and instant hints. |
-| [**Heart Disease Prediction**](https://github.com/MansoobeZahra/Heart-Disease-Prediction) | Python · Scikit-learn | Logistic regression from scratch comparing non-regularized vs L2-regularized approaches. |
+| [**Heart Disease Prediction**](https://github.com/MansoobeZahra/Heart-Disease-Prediction) | Python · Scikit-learn | Logistic regression from scratch — non-regularized vs L2-regularized comparison. |
 
 ### 🌐 Web Development
 | 🔗 Project | 🛠️ Stack | 📝 Description |
@@ -96,65 +97,15 @@ const mansoob = {
 
 ---
 
-## 💼 Experience
-
-**Web Developer & SEO Analyst — Careeriva** *(Dec 2025 – Present | Remote)*
-- Built and maintain the company website; integrated AI-powered automation workflows
-- Conduct keyword research, on-page SEO audits, and technical SEO improvements
-
-**Web Developer — Blucentric** *(Jun 2025 – Oct 2025)*
-- Built 10+ responsive client websites, improving conversion rates by up to 25%
-- Designed modern UI/UX layouts improving user engagement and search rankings
-
-**Web Development Intern — Code Alpha** *(Jun 2023 – Sep 2023)*
-- Developed 5+ dynamic web apps with React, Next.js, and Node.js
-- Integrated AI APIs achieving 30% improvement in operational efficiency
-
----
-
-## 🏆 Key Achievements
-
-- 🥇 **VYROTHON National Hackathon** — Top 5 Final Round at NSTP (560+ participants, 2025)
-- 🤝 **Inspiring Youth** — Mentored 100+ individuals in public speaking & communication
-- 🏅 **Community Impact Award** — Outstanding performance in confidence-building
-- 🥈 **Runner-Up** — Tech Involver Hackathon
-- 🎨 **3rd Prize** — Art Competition, UET
-
----
-
-## 🌍 Volunteering
-
-- **CO LEAD '25** — Google Developer Group PIEAS (2025)
-- **Host & Manager** — PIEAS Open House '24 (60+ companies, 1,600+ participants)
-- **Orientation Week President** — PIEAS O Week '24
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mansoobezahra&theme=tokyonight" width="98%" />
-<br/>
+<br/><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mansoobezahra&theme=tokyonight" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mansoobezahra&theme=tokyonight" width="48%" />
-<br/>
+<br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoobezahra&theme=tokyonight&hide_border=true&background=0d1117&ring=FF4B4B&fire=ff6b6b" width="80%" />
-</div>
-
----
-
-## 🧭 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoobezahra&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 🐍 Snake Eating My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
@@ -163,6 +114,14 @@ const mansoob = {
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansoobezahra&theme=tokyo-night&bg_color=0d1117&color=FF4B4B&line=c0392b&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
@@ -194,7 +153,7 @@ const mansoob = {
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:900000,50:c0392b,100:FF4B4B&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
 
-*"Build. Learn. Repeat."* — Mansoob
+*"Build. Learn. Repeat."* — Mansoob ✨
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mansoobezahra&color=FF4B4B&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MansoobeZahra)
 </div>
