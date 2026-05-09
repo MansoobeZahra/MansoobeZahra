@@ -1,129 +1,200 @@
-<!-- Profile Header -->
-<h2 align="center">Hey there! I'm <strong>Mansoob-e-Zahra</strong> 👋</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,50:c0392b,100:900000&height=200&section=header&text=Mansoob-e-Zahra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web+Developer+%7C+AI%2FML+Engineer+%7C+Tech+Enthusiast&descAlignY=58&descColor=ffcccc&animation=fadeIn" />
+</div>
 
-<p align="center"><strong>Web DEveloper | Aspiring Data Scientist | Python • ML • NLP • Streamlit</strong></p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;ML%2C+NLP%2C+Streamlit+Lover;Learning+BERT+and+FastAPI;Always+building...&center=true&width=500&height=45&color=FF4B4B&vCenter=true&size=20">
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Full-Stack+Web+Developer;AI%2FML+%26+NLP+Engineer;Streamlit+%7C+FastAPI+%7C+Flask+Lover;Learning+BERT%2C+MLOps+%26+Cloud+Deploy;Always+building...&center=true&width=600&height=45&color=FF4B4B&vCenter=true&size=20&duration=3000&pause=1000">
+</div>
 
-<p align="center">
-🧑‍💻 Skilled in Web Development (HTML, CSS, JavaScript, React.js, Next.js) and Data Science  
-🚀  I’m currently working on Machine Learning , Backend Dev and integrating them into full-stack apps 
-🤝 I’m looking to collaborate on any kind of ML projects and web apps.
-🪴 Learning MLOps, CI/CD pipelines, and scalable cloud deployment (AWS, Docker)  
-⚡ Fun fact: I love to code, lol!
-  📬 Reach out: <a href="mailto:mansoobezehra@gmail.com">mansoobezehra@gmail.com</a> | <a href="https://www.linkedin.com/in/mansoob-e-zahra/">LinkedIn</a>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoob-e-zahra/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansoobezehra@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MansoobeZahra)
 
-<p align=""><em>“Feel free to connect — I'm always open to collaborating!”</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+</div>
 
 ---
 
-## 🚀 Skills & Tools
+<div align="center">
 
+## ✨ About Me
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+</div>
+
+```javascript
+const mansoob = {
+  name: "Mansoob-e-Zahra",
+  role: "Web Developer · AI/ML Engineer · Tech Enthusiast",
+  education: "B.S. Computer Science @ PIEAS, Islamabad (2023–2027) — CGPA: 3.6/4.0",
+  languages: ["Python", "JavaScript", "TypeScript", "Java", "C++", "Bash"],
+  currentlyBuilding: "ML pipelines + Full-stack apps + Agentic AI workflows",
+  lookingFor: "Collaborations on ML, Web, and AI-powered projects",
+  funFact: "I love to code, lol! ⚡",
+  contact: "mansoobezehra@gmail.com"
+};
+```
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3182bd?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ Backend & DevOps
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🤖 AI / ML / NLP
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3182bd?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------
-| [**Halal Beats**](https://github.com/MansoobeZahra/Halal-Beats) | A simple, ad-free Naat player built with HTML, CSS, and JavaScript. | 
-| [**Netflix Dashboard**](https://github.com/MansoobeZahra/Netflix-Dashboard) | Interactive Streamlit app: filtering, visualizations, ML genre/type prediction, Wikipedia scraping | 
-| [**Boston-house-price-prediction**](https://github.com/MansoobeZahra/Boston-house-price-prediction) | A Streamlit-based web application that predicts median housing prices in Boston using Polynomial Regression, built from the Boston Housing Dataset |
-| [**Heart-Disease-Prediction**]([https://github.com/MansoobeZahra/Netflix-Dashboard](https://github.com/MansoobeZahra/Heart-Disease-Prediction)) | This project implements a heart disease classification model using logistic regression from scratch, comparing both non-regularized and L2-regularized approaches.| 
-| [**Student_score_Predictor**](https://github.com/MansoobeZahra/Student_score_Predictor) | This is a Streamlit web application that predicts a student's writing score based on their math and reading scores using a Linear Regression model |
+### 🤖 AI / ML
+| 🔗 Project | 🛠️ Stack | 📝 Description |
+|:-----------|:---------|:---------------|
+| [**GreenVision — AI Crop Disease Detection**](https://github.com/MansoobeZahra/Crop-Disease-Detector-Web-App) | Flask · TensorFlow · VGG19 | Identifies plant diseases from leaf images. Built for Uraan AI Techathon 2025. [Live Demo](https://mansoobezahra.github.io/Crop-Disease-Detector-Web-App/) |
+| [**ExoVision-AI — Exoplanet Detection**](https://github.com/MansoobeZahra) | Python · ML · NASA K2 | ML-driven classifier for celestial objects from NASA's K2 Catalog. NASA Space Apps Hackathon 2025. |
+| [**MindScan — Mental Health Detection**](https://github.com/MansoobeZahra/MindScan_-Mental-Health-Detection-System) | Flask · NLP · DistilBERT | AI-powered depression detection using TF-IDF + DistilBERT with PHQ-9 scoring & explainability. |
+| [**Multi-Agent E-Learning System**](https://github.com/MansoobeZahra/Multi-Agent-Adaptive_E-Learning_System) | React · Vite · Python | AI tutoring platform with adaptive difficulty, live coding practice, and instant hints. |
+| [**Heart Disease Prediction**](https://github.com/MansoobeZahra/Heart-Disease-Prediction) | Python · Scikit-learn | Logistic regression from scratch comparing non-regularized vs L2-regularized approaches. |
+
+### 🌐 Web Development
+| 🔗 Project | 🛠️ Stack | 📝 Description |
+|:-----------|:---------|:---------------|
+| [**Netflix Dashboard**](https://github.com/MansoobeZahra/Netflix-Dashboard) | Streamlit · ML | Interactive dashboard with filtering, visualizations, and ML-based genre/type prediction. |
+| [**Boston House Price Predictor**](https://github.com/MansoobeZahra/Boston-house-price-prediction) | Streamlit · Regression | Predicts median housing prices using Polynomial Regression on the Boston Housing Dataset. |
+| [**Halal Beats**](https://github.com/MansoobeZahra/Halal-Beats) | HTML · CSS · JS | Simple, ad-free Naat player built from scratch. |
+| [**HydroKleen Norway**](https://hydrokleen.no/) | WordPress · SEO | Service website with online booking, localised Norwegian content and SEO. |
+| [**Student Score Predictor**](https://github.com/MansoobeZahra/Student_score_Predictor) | Streamlit · Linear Regression | Predicts student writing scores from math and reading scores. |
 
 ---
-## 💬 Dev Quote of the Day
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+## 💼 Experience
+
+**Web Developer & SEO Analyst — Careeriva** *(Dec 2025 – Present | Remote)*
+- Built and maintain the company website; integrated AI-powered automation workflows
+- Conduct keyword research, on-page SEO audits, and technical SEO improvements
+
+**Web Developer — Blucentric** *(Jun 2025 – Oct 2025)*
+- Built 10+ responsive client websites, improving conversion rates by up to 25%
+- Designed modern UI/UX layouts improving user engagement and search rankings
+
+**Web Development Intern — Code Alpha** *(Jun 2023 – Sep 2023)*
+- Developed 5+ dynamic web apps with React, Next.js, and Node.js
+- Integrated AI APIs achieving 30% improvement in operational efficiency
 
 ---
+
+## 🏆 Key Achievements
+
+- 🥇 **VYROTHON National Hackathon** — Top 5 Final Round at NSTP (560+ participants, 2025)
+- 🤝 **Inspiring Youth** — Mentored 100+ individuals in public speaking & communication
+- 🏅 **Community Impact Award** — Outstanding performance in confidence-building
+- 🥈 **Runner-Up** — Tech Involver Hackathon
+- 🎨 **3rd Prize** — Art Competition, UET
+
+---
+
+## 🌍 Volunteering
+
+- **CO LEAD '25** — Google Developer Group PIEAS (2025)
+- **Host & Manager** — PIEAS Open House '24 (60+ companies, 1,600+ participants)
+- **Orientation Week President** — PIEAS O Week '24
+
+---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansoobezahra&show_icons=true&theme=dark" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoobezahra&theme=dark" />
-</p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mansoobezahra&theme=tokyonight" width="98%" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mansoobezahra&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mansoobezahra&theme=tokyonight" width="48%" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoobezahra&theme=tokyonight&hide_border=true&background=0d1117&ring=FF4B4B&fire=ff6b6b" width="80%" />
+</div>
 
 ---
 
-## 🧭 Languages Used
+## 🧭 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoobezahra&layout=compact&theme=dark" />
-</p>
-
----
-
-##  Watch the Snake Eat My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoobezahra&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
-## 📫 Let’s Connect!
+## 🐍 Snake Eating My Contributions
 
-<p align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+## 🌌 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansoobezahra&theme=tokyo-night&bg_color=0d1117&color=FF4B4B&line=c0392b&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mansoob-e-zahra/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:mansoobezehra@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
+  <a href="https://github.com/MansoobeZahra">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:900000,50:c0392b,100:FF4B4B&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
+
+*"Build. Learn. Repeat."* — Mansoob
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mansoobezahra&color=FF4B4B&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MansoobeZahra)
+</div>
