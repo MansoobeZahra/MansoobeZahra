@@ -26,7 +26,7 @@
 const mansoob = {
   name: "Mansoob-e-Zahra",
   role: "Web Developer · AI/ML Engineer · Tech Enthusiast",
-  education: "B.S. Computer Science @ PIEAS, Islamabad (2023–2027) — CGPA: 3.6/4.0",
+  education: "B.S. Computer Science @ PIEAS, Islamabad (2023–2027) ",
   languages: ["Python", "JavaScript", "TypeScript", "Java", "C++", "Bash"],
   currentlyBuilding: "ML pipelines + Full-stack apps + Agentic AI workflows",
   lookingFor: "Collaborations on ML, Web, and AI-powered projects",
