@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,50:c0392b,100:900000&height=200&section=header&text=Mansoob-e-Zahra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web+Developer+%7C+AI%2FML+Engineer+%7C+Tech+Enthusiast&descAlignY=58&descColor=ffcccc&animation=fadeIn" />
 </div>
 
+
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Full-Stack+Web+Developer;AI%2FML+%26+NLP+Engineer;Streamlit+%7C+FastAPI+%7C+Flask+Lover;Learning+BERT%2C+MLOps+%26+Cloud+Deploy;Always+building...&center=true&width=600&height=45&color=FF4B4B&vCenter=true&size=20&duration=3000&pause=1000">
 </div>
