@@ -15,7 +15,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MansoobeZahra)
 
 </div>
+<!-- 🏆 Rankistan Badge -->
 
+<div align="center">
+
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMansoobeZahra&style=for-the-badge)](https://rankistan.dev)
+
+</div>
+
+---
 ---
 
 <div align="center">
