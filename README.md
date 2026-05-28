@@ -107,15 +107,15 @@ const mansoob = {
 
 ---
 
+ 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mansoobezahra&theme=tokyonight" width="98%" />
-<br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mansoobezahra&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mansoobezahra&theme=tokyonight" width="48%" />
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoobezahra&theme=tokyonight&hide_border=true&background=0d1117&ring=FF4B4B&fire=ff6b6b" width="80%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mansoobezahra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF4B4B&icon_color=FF4B4B&text_color=ffffff&ring_color=FF4B4B" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoobezahra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF4B4B&text_color=ffffff&langs_count=8" width="41%" />
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoobezahra&theme=tokyonight&hide_border=true&background=0d1117&ring=FF4B4B&fire=FF4B4B&currStreakLabel=FF4B4B" width="70%" />
 </div>
 
 ---
